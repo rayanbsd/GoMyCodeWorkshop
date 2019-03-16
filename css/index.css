@@ -5,3 +5,12 @@
 .red:hover{
     color:blue;
 }
+.petit{
+    width:10%;
+}
+.grand{
+    width:40%;
+}
+.dis{
+    display: inline;
+}
